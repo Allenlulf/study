@@ -13,6 +13,5 @@ public class Solution08 {
 		}else{
 			return JumpFloor(target-1)+JumpFloor(target-2);
 		}
-
     }
 }
